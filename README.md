@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" alt="AOYAMA — Node Runner · quest log" width="100%" />
+  <img src="./header.png" alt="AOYAMA — manga header" width="100%" />
 </p>
 
 ### hi, Aoyama here 👋
